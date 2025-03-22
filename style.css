@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    padding: 50px;
+    background-color: rgba(118, 216, 251, 0.804);
+}
+.staking-offer{
+    display: flex;
+}
+.cardano{
+    width: 350px;
+    height: 30rem;
+    /* background-color: black; */
+}
+.small{
+    width: 180px;
+    height: 250px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.small span{
+    display: flex;
+    flex-direction:row-reverse;
+    
+}
+.small h4{
+    text-align: center;
+}
+.small h5{
+    color: gray;
+}
+.small h6{
+    color: gray;
+    padding-left: 70px;
+    
+}
+.small p{
+    padding-top: 40px;
+}
+.small button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 40px;
+    width: 100px;
+   height: 25px;
+    background-color: lightblue;
+}
+.locked{
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+}
+.ontology{
+   padding: 5px;
+   color: gray;
+}
+.ontology-text{
+    width: 250px;
+    height: 147px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    
+    
+}
+.ontology-text h4{
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    
+}
+.ontology-text h6{
+    padding-left: 120px;
+
+}
+.ontology-text p{
+    padding-top: 10px;
+    padding-left: 15px;
+
+    color: black;
+
+}
+.ontology-text h5{
+    /* padding-top: 30px; */
+    padding-left: 15px;
+    
+}
+.ontology-text button{
+    height: 28px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: rgba(215, 215, 248, 0.87);
+    margin-left: 120px;
+    cursor: pointer;
+}
+.stakeAssets{
+    width: 860px;
+    height: 120px;
+    margin-top: 20px;
+    background-color: #fff;
+    display: flex;
+}
+.headerText  {
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+}
+
+ 
